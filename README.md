@@ -2,8 +2,7 @@ For the fourth time, the European Space Agency's Advanced Concepts Team
 (ACT) presents in cooperation with the [The Genetic and Evolutionary
 Computation Conference
 (GECCO)](https://gecco-2026.sigevo.org/HomePage) the *Space
-Optimization Competition (SpOC)*. Look forward to challenging
-problems placed in an futuristic space mission scenario.
+Optimization Competition (SpOC)*. Look forward to challenging problems set in a futuristic space mission scenario.
 
 ## Details
 
