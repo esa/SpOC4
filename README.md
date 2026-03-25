@@ -9,6 +9,10 @@ Optimization Competition (SpOC)*. Look forward to challenging problems set in a 
 We will update this file soon with details about the timeline and
 structure of the competition. 
 
+## Timeline
+
+<img src="https://i.countdownmail.com/4xe8n9.gif" style="width:100%!important;max-width:586px!important;" border="0" alt="countdownmail.com"/>
+
 ## Contact
 
 Our primary means of communication with competitors will be the
