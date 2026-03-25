@@ -4,10 +4,16 @@ Computation Conference
 (GECCO)](https://gecco-2026.sigevo.org/HomePage) the *Space
 Optimization Competition (SpOC)*. Look forward to challenging problems set in a futuristic space mission scenario.
 
-## Details
+## Competition Structure
 
-We will update this file soon with details about the timeline and
-structure of the competition. 
+SpOC 4.0 contains three distinct problems centered around a futuristic
+space mission. Starting from **1 April 2026, End of Day, Anywhere on Earth (AoE)** you have **three** months
+to tackle these challenges to secure a spot on the leaderboard, i.e., until
+**30 June 2026, End of Day, Anywhere on Earth (AoE)**.
+
+**Detailed technical descriptions for the three challenges to be
+solved will be made available on the [Optimise
+platform](https://optimise.esa.int) from the same date.** 
 
 ## Guidelines and Rules
 
