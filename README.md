@@ -11,7 +11,7 @@ structure of the competition.
 
 ## Timeline
 
-<img src="https://i.countdownmail.com/4xe8n9.gif" style="width:100%!important;max-width:586px!important;" border="0" alt="countdownmail.com"/>
+tba
 
 ## Contact
 
