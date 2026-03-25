@@ -9,6 +9,29 @@ Optimization Competition (SpOC)*. Look forward to challenging problems set in a 
 We will update this file soon with details about the timeline and
 structure of the competition. 
 
+## Guidelines and Rules
+
+The competition will be hosted on the
+  [Optimise](https://optimise.esa.int/) platform developed by the
+  Advanced Concepts Team. Participants will need to register online on the
+  platform, and solution entries will need to be submitted via
+  Optimise for validation. While SpOC is organized in cooperation with
+  GECCO 2026, it is *not* required to attend GECCO 2026 in order to
+  participate in SpOC.
+
+- Your objective is to propose and implement metaheuristic algorithms
+  to solve the proposed optimisation challenges. 
+- In order to validate your solutions, we will provide you with Python
+  validation code for each of the challenges. This code includes
+  problem definitions in the [Pygmo](https://esa.github.io/pygmo2/#)
+  user-defined problem (UDP) format, examples of solutions, and
+  visualisation tools. 
+- You have until **30 June 2026** to submit your entries via the dedicated portal [Optimise](https://optimise.esa.int/).
+- Please comply with our [basic code of
+  honour](https://optimise.esa.int/terms). The ACT reserves the right
+  to exclude users from the competition if they abuse the evaluation
+  system.
+
 ## Timeline
 
 The Space Optimization Competition starts at the **first of April, End
