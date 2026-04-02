@@ -131,15 +131,8 @@ Simó, Carles, et al. "The bicircular model near the triangular libration points
 
 The equations of motion are:
 
-$$
-\left\{
-   \begin{array}{l}
-       \dot{\mathbf r} = \mathbf v \\
-       \dot v_x = 2v_y + x - (1 - \mu) \frac{x + \mu}{r_1^3} - \mu \frac{x + \mu - 1}{r_2^3} - \frac{\mu_s}{r_s^3} (x- \rho_s \cos(\omega_s t)) - \frac{\mu_s}{\rho_s^2} \cos(\omega_s t)\\
-       \dot v_y = -2 v_x + y - (1 - \mu) \frac{y}{r_1^3} - \mu \frac{y}{r_2^3} - \frac{\mu_s}{r_s^3} (y - \rho_s \sin(\omega_s t)) - \frac{\mu_s}{\rho_s^2} \sin(\omega_s t)\\
-       \dot v_z = -(1 - \mu) \frac{z}{r_1^3} - \mu \frac{z}{r_2^3} - \mu_s \frac{z}{r_s^3} 
-\end{array}\right.
-$$
+<image src="../images/equations.png" align="center" alt="ltl equations
+of motion"/>
 
 The values of the various parameters in the above equations are given in the following table:
 
