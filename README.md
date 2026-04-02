@@ -20,8 +20,6 @@ you’ll need to compute the actual transfer trajectories and maximize
 the total mass delivered, taking into account the complexities of
 orbital mechanics and transfer capacities. 
 
-[To the challenge.](https://optimise.esa.int/challenge/spoc-4-luna-tomato-logistics/About)
-
 2. [Keplerian Tomato Traveling Salesperson](https://optimise.esa.int/challenge/spoc-4-keplerian-tomato-traveling-salesperson/About)
 
 Disaster! Tomatoes are stranded in lunar orbit after a cargo
@@ -33,8 +31,6 @@ depends on Keplerian dynamics, and not all transfers are
 feasible. Optimize your route, timing, and maneuvers to save the Luna
 Tomato Industry! 
 
-[To the challenge.](https://optimise.esa.int/challenge/spoc-4-keplerian-tomato-traveling-salesperson/About)
-
 3. [Luna Tomato Advertising](https://optimise.esa.int/challenge/spoc-4-luna-tomato-advertising/About)
 
 Can you broadcast advertisement across the lunar sky? Configure a
@@ -44,8 +40,6 @@ goal: use as few spacecraft as possible while keeping the signal crisp
 and clear. Choose from Distant Retrograde, Lyapunov, and Axial orbits,
 and optimize the phases to match the target waveform. Everybody must
 know that tomatoes are for sale. 
-
-[To the challenge.](https://optimise.esa.int/challenge/spoc-4-luna-tomato-advertising/About)
 
 
 ## Competition Structure
