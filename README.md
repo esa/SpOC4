@@ -4,6 +4,50 @@ Computation Conference
 (GECCO)](https://gecco-2026.sigevo.org/HomePage) the *Space
 Optimization Competition (SpOC)*. Look forward to challenging problems set in a futuristic space mission scenario.
 
+<Image src="images/spoc-banner.jpg" align="center" alt="SpOC 2024"/>
+
+## SpOC 4: Space Logistics
+
+SpOC 4 features three distinct challenges, each with its own flavor:
+
+1. [Luna Tomato Logistics](https://optimise.esa.int/challenge/spoc-4-luna-tomato-logistics/About)
+
+Design a transport network to maximize the delivery of precious
+tomatoes from Earth orbits to lunar destinations. Each transfer must
+respect strict licensing regulations, but be careful: no orbit or
+destination can be used more than once! For advanced competitors,
+you’ll need to compute the actual transfer trajectories and maximize
+the total mass delivered, taking into account the complexities of
+orbital mechanics and transfer capacities. 
+
+[To the challenge.](https://optimise.esa.int/challenge/spoc-4-luna-tomato-logistics/About)
+
+2. [Keplerian Tomato Traveling Salesperson](https://optimise.esa.int/challenge/spoc-4-keplerian-tomato-traveling-salesperson/About)
+
+Disaster! Tomatoes are stranded in lunar orbit after a cargo
+mishap. As a logistics expert, you must collect all the tomatoes in
+the shortest possible time, planning a route that respects the limits
+of your spacecraft’s maneuvering capability. This is a traveling
+salesperson problem with a twist: the cost of moving between tomatoes
+depends on Keplerian dynamics, and not all transfers are
+feasible. Optimize your route, timing, and maneuvers to save the Luna
+Tomato Industry! 
+
+[To the challenge.](https://optimise.esa.int/challenge/spoc-4-keplerian-tomato-traveling-salesperson/About)
+
+3. [Luna Tomato Advertising](https://optimise.esa.int/challenge/spoc-4-luna-tomato-advertising/About)
+
+Can you broadcast advertisement across the lunar sky? Configure a
+fleet of spacecraft in lunar orbits to reproduce a Morse-code
+advertising campaign, using occultations as dots and dashes. Your
+goal: use as few spacecraft as possible while keeping the signal crisp
+and clear. Choose from Distant Retrograde, Lyapunov, and Axial orbits,
+and optimize the phases to match the target waveform. Everybody must
+know that tomatoes are for sale. 
+
+[To the challenge.](https://optimise.esa.int/challenge/spoc-4-luna-tomato-advertising/About)
+
+
 ## Competition Structure
 
 SpOC 4.0 contains three distinct problems centered around a futuristic
@@ -37,6 +81,29 @@ The competition will be hosted on the
   honour](https://optimise.esa.int/terms). The ACT reserves the right
   to exclude users from the competition if they abuse the evaluation
   system.
+
+## Scoring and Winner Selection 
+
+This year, SpOC contains three challenges, of which two are mandatory
+and one is a tie-breaker. In detail, you will obtain a *local score*
+$s_i$ for the [Luna Tomato Logistics](https://optimise.esa.int/challenge/spoc-4-luna-tomato-logistics/About) challenge and for the [Keplerian Tomato Traveling Salesperson](https://optimise.esa.int/challenge/spoc-4-keplerian-tomato-traveling-salesperson/About) challenge,
+each computed via the the rules below,
+then your *global score* is the sum of the two. The global score defines your place on the overall SpOC
+leaderboard. Ties are broken with the score of the [Luna Tomato Advertising](https://optimise.esa.int/challenge/spoc-4-luna-tomato-advertising/About) challenge. 
+
+The two main challenges contain *three problems* of different
+difficulty. Every problem has its own leaderboard (visible on
+[Optimise](https://optimise.esa.int/)) that ranks participants
+according to the objective of the challenge. The top ten ranks on the
+leaderboard of an easy instances get $e_i=10,9,8,\dots,1$ points, similarly
+$m_i=\frac{4}{3}10,\frac{4}{3}9,\dots,\frac{4}{3}$ points for the top
+ten teams on medium problems, and 
+$h_i=(\frac{4}{3})^2 10,(\frac{4}{3})^2 9,\dots,(\frac{4}{3})^2$ points for hard
+problems. The score of the challenge is determined by the sum of the
+scores obtained in the individual problems.
+
+We wish all participants the best of luck and are excited to see what you accomplish!
+
 
 ## Timeline
 
