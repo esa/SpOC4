@@ -174,7 +174,7 @@ Implemented ranking logic:
 Feasibility condition:
 
 ```
-mse <= mse_threshold   # typically 0.05 or 0.10
+mse <= mse_threshold
 ```
 
 ---
